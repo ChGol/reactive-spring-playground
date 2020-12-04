@@ -13,16 +13,13 @@ public class ReactiveSpringApplication {
 }
 
 /*
-    Mongo Repository + test class - findAll
-    TODO 1 dodajemy zaleznosci:
-        data mongo db
-        lombok
-        de.flapdoodle.embed.mongo
-
-    TODO 2 @Document Person
-
-    TODO 3 mongo repository
-
-    TODO 4 Junit5 tests
+    TODO 1 dodajemy zaleznosci  - reactive web / testy
  */
 
+/*
+    TODO 2 w paczce testowej playground.FLuxAndMonoTest
+ */
+
+/*
+    TODO 3 przyklady wykorzystania API (Flux / Mono, Testy)
+ */
