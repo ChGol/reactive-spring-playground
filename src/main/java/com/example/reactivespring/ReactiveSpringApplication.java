@@ -13,13 +13,9 @@ public class ReactiveSpringApplication {
 }
 
 /*
-    Part 2 : Mongo Rest Repository + test class(cRud), real DB (testcontainers)
-    TODO 1 dodajemy zaleznosci:
-        mongodb-reactive
-        testcontainers
+    Part 2 : Mongo Rest Repository + test class(cRud), embeddedDB
+    TODO 1 reactive repo
 
-    TODO 2 reactive repo
-
-    TODO 3 JUnit5 test z testcontainers
+    TODO 3 JUnit5 CRUD
  */
 
